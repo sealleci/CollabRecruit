@@ -1,0 +1,21 @@
+#footer-container{
+    height: 3rem;
+}
+
+#footer{
+    height: 3rem;
+    color: var(--white);
+    background-color: var(--info);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+.inputHolder {
+    display: block;
+    height: calc(1.5em + .75rem + 2px);
+}
